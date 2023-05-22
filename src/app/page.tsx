@@ -61,37 +61,37 @@ export default function Home() {
         </p>
       </div>
 
-      <div className="lg:container sm:mx-auto lg:px-72">
+      <div className="lg:container sm:mx-auto md:px-52 px-20">
         <h2 className="text-center py-4">Meu desenvolvimento nas áreas:</h2>
         <h2 className="flex px-6 gap-3 items-center">
           <Camera />F o t o g r a f i a
         </h2>
-        <div className="bg-zinc-300 pr-20 mx-6 text-center text-white">
-          <div className="bg-zinc-600 text-center text-white">80%</div>
+        <div className="mx-6 text-center">
+        <progress className="progress progress-warning w-full" value="75" max="100"></progress>75%
         </div>
         <h2 className="flex px-6 gap-3 items-center pt-6">
-          <IconFileVector />I l u s t r a ç ã o
+          <IconFileVector />I l l u s t r a t o r
         </h2>
-        <div className="bg-zinc-300 pr-5 mx-6 text-center text-white">
-          <div className="bg-zinc-600 text-center text-white">95%</div>
+        <div className="mx-6 text-center">
+        <progress className="progress progress-success w-full" value="97" max="100"></progress>97%
         </div>
         <h2 className="flex px-6 gap-3 items-center pt-6">
           <IconJpg />P h o t o s h o p
         </h2>
-        <div className="bg-zinc-300 pr-5 mx-6 text-center text-white">
-          <div className="bg-zinc-600 text-center text-white">95%</div>
+        <div className="mx-6 text-center">
+        <progress className="progress progress-success w-full" value="95" max="100"></progress>95%
         </div>
         <h2 className="flex px-6 gap-3 items-center pt-6">
           <IconBrandBlender />B l e n d e r &nbsp; &nbsp;3 D
         </h2>
-        <div className="bg-zinc-300 pr-16 mx-6 text-center text-white">
-          <div className="bg-zinc-600 text-center text-white">85%</div>
+        <div className="mx-6 text-center">
+        <progress className="progress progress-info w-full" value="85" max="100"></progress>85%
         </div>
         <h2 className="flex px-6 gap-3 items-center pt-6">
           <IconBrandTabler />P r o g r a m a ç ã o&nbsp; &nbsp;W e b
         </h2>
-        <div className="bg-zinc-300 pr-44 mx-6 text-center text-white">
-          <div className="bg-zinc-600 text-center text-white">50%</div>
+        <div className="mx-6 text-center">
+        <progress className="progress w-full"></progress>Em progresso
         </div>
       </div>
 
