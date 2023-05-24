@@ -54,7 +54,7 @@ export default function Home() {
           meu primeiro contacto com fotografia aos cinco anos de idade quando
           ganhei de presente do meu pai uma câmera fotográfica Kodak de filme em
           rolo no ano de 1990 no dia do meu aniversário, no qual tenho a câmera
-          até o dia de hoje. Iniciei meu trabalho de designer por curiosidade em aprender a desenvolver artes através do computador na minha adolescência onde tive meu primeiro emprego em uma gráfica e usando somente o CorelDraw como único programa vetorial e de edição de imagens. Em pouco tempo passei a me interessar por manipulação de imagens e foi onde conheci o Adobe Photoshop e desde então não parei mais. Eu trabalhei como designer gráfico no Brasil em uma gráfica, uma malharia e depois em uma estamparia, depois disso em uma empressa de comunicação visual em Lisboa por cinco anos onde aprendi não só a evoluir na arte de design mas também na criação, montagem e aplicação dos projectos desenvolvidos pela empresa. <br /> Sempre me interessei por arte, venho de uma família
+          até o dia de hoje. Iniciei meu trabalho de designer por curiosidade em aprender a desenvolver artes através do computador na minha adolescência onde tive meu primeiro emprego em uma gráfica e usando somente o CorelDraw como único programa vetorial e de edição de imagens. Em pouco tempo passei a me interessar por manipulação de imagens e foi onde conheci o Adobe Photoshop e desde então não parei mais. Eu trabalhei como designer gráfico no Brasil em uma gráfica, uma malharia e depois em uma estamparia, depois disso em uma empresa de comunicação visual em Lisboa por cinco anos onde aprendi não só a evoluir na arte de design mas também na criação, montagem e aplicação dos projectos desenvolvidos pela empresa. <br /> Sempre me interessei por arte, venho de uma família
           de artistas, meu pai José Carlos Lemes{" "}
           <span className="italic">(in memoriam)</span> foi um grande ilustrador
           realista, dentre os demais parentes próximos também na arte estão na
@@ -62,7 +62,7 @@ export default function Home() {
           Portugal desde a primavera de 2018 com a família e ultimamente tenho
           dado foco nos meus trabalhos como designer gráfico, ilustrador e
           programador web, cada vez mais focado em Portugal. <br /> Meus
-          conhecimentos como programador são nas áreas de HTML, CSS e Nextjs.
+          conhecimentos como programador são nas áreas de HTML, CSS e Javascript com os Frameworks: nextjs e tailwindcss.
           Tenho a fotografia como um início de um novo projeto em minha vida mas
           já possuo uma boa bagagem como designer gráfico em Adobe Illustator e
           Adobe Photoshop.
