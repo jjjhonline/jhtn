@@ -10,6 +10,7 @@ import {
   IconMailFilled,
   IconBrandGithub,
   IconBrandInstagram,
+  IconBrandLinkedin,
 } from "@tabler/icons-react";
 
 export default function Home() {
@@ -276,6 +277,9 @@ export default function Home() {
       <div>
         <div className="bg-[#404040] w-full">
           <div className="gap-8 flex items-center justify-center h-12 text-white">
+            <a href="https://www.linkedin.com/in/jhonatan-lemes-93b295182/" target="_blank">
+              <IconBrandLinkedin/>
+            </a>
             <a href="https://github.com/jjjhonline" target="_blank">
               <IconBrandGithub />
             </a>
