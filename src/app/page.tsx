@@ -289,7 +289,7 @@ export default function Home() {
           </div>
           <a href="#home">
             <span className="flex justify-center pb-4 text-xs text-white">
-              jhtn &copy; 2023 - Todos os direitos reservados.
+              jhtn &copy; 2024 - Todos os direitos reservados.
             </span>
           </a>
         </div>
